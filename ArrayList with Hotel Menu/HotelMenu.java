@@ -15,21 +15,21 @@ public class HotelMenu {
 
         // Create a variable called starter of type MenuItem and pass in the name of
         // your favourite starter.
-    MenuItem starter = new MenuItem("Tanduri Chicken");
+    MenuItem starter = new MenuItem("Starter = Tanduri Chicken");
 
         // Add the starter variable to the ArrayList called menu.
     menu.add(starter);
 
         // Create a variable called mainCourse of type MenuItem and pass in the name of
         // your favourite main course.
-    MenuItem mainCourse  = new MenuItem("Roti With Chicken Gravy");
+    MenuItem mainCourse  = new MenuItem("Main Course = Roti With Chicken Gravy");
 
         // Add the mainCourse variable to the ArrayList called menu.
     menu.add(mainCourse);
 
         // Create a variable called dessert of type MenuItem and pass in the name of
         // your favourite dessert.
-    MenuItem dessert = new MenuItem("Ice Cream");
+    MenuItem dessert = new MenuItem("Desert = Ice Cream");
 
         // Add the dessert variable to the ArrayList called menu.
     menu.add(dessert);
