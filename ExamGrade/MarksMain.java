@@ -4,7 +4,7 @@ public class MarksMain {
 
         public static void main(String[] args) {
           Marks Marks = new Marks();
-          int percentage = 75;
+          int percentage = 85;
           System.out.println("Percentage: " + percentage);
           System.out.println("Result: " + Marks.isAPass(percentage));
           System.out.println("Grade: " + Marks.getGrade(percentage));

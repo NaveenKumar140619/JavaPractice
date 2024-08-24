@@ -5,7 +5,7 @@
 public class Ticket{
 
     // Creating calss Ticket with empty () constructor
-   public Ticket() {
+    public Ticket() {
    }
     // Creating 3 private field variables in the class:  
     //- A field of type String called destination
