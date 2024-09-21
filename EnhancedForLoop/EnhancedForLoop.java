@@ -10,7 +10,7 @@ public class EnhancedForLoop {
     // Write an enhanced for loop to print out each prime number in the array.
 for(int primeNumber : primeNumbers){
     System.out.println(primeNumber);
-}
+}  
     List<String> weekDays = Arrays.asList("Monday", "Tuesday", "Wednesday", "Thursday", "Friday");
     // Write an enhanced for loop to print out each week day in the list.
 for(String weekDay : weekDays){
@@ -23,6 +23,7 @@ for (int randomNumber : randomNumbers){
     if(randomNumber > 50){
         System.out.println(randomNumber);
     }
+    
 }
   }
 
